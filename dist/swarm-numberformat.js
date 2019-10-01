@@ -672,7 +672,7 @@ module.exports = {
 /***/ (function(module, exports) {
 
 module.exports = {
-	"normal": [
+	"short": [
 		"",
 		"thousand",
 		"million",
@@ -686,7 +686,7 @@ module.exports = {
 		"nonillion",
 		"decillion"
 	],
-	"other": [
+	"full": [
 		"",
 		" K",
 		" M",
