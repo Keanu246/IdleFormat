@@ -1,9 +1,9 @@
 {
-    "normal": [
+    "short": [
         "", "thousand", "million", "billion", "trillion", "quadrillion", "quintillion", "sextillion", "septillion", "octillion", "nonillion",
         "decillion"
     ],
-    "other": [
+    "full": [
         "",
         " K",
         " M",
