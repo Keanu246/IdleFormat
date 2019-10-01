@@ -672,21 +672,21 @@ module.exports = {
 /***/ (function(module, exports) {
 
 module.exports = {
-	"short": [
+	"normal": [
 		"",
-		"K",
-		"M",
-		"B",
-		"T",
-		"Qa",
-		"Qi",
-		"Sx",
-		"Sp",
-		"Oc",
-		"No",
-		"Dc"
+		"thousand",
+		"million",
+		"billion",
+		"trillion",
+		"quadrillion",
+		"quintillio",
+		"sextillion",
+		"septillion",
+		"octillion",
+		"nonillion",
+		"decillion"
 	],
-	"full": [
+	"other": [
 		"",
 		" K",
 		" M",
