@@ -1,9 +1,9 @@
 {
-    "short": [
-        "", "K", "M", "B", "T", "Qa", "Qi", "Sx", "Sp", "Oc", "No",
-        "Dc"
+    "normal": [
+        "", "thousand", "million", "billion", "trillion", "quadrillion", "quintillion", "sextillion", "septillion", "octillion", "nonillion",
+        "decillion"
     ],
-    "full": [
+    "other": [
         "",
         " K",
         " M",
