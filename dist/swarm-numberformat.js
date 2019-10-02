@@ -701,6 +701,12 @@ module.exports = {
 		" D",
 		" U",
 		" DD"
+    " C",
+    " CC",
+    " E",
+    " EE",
+    " F",
+    " FF"
 	]
 };
 
