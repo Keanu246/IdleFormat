@@ -706,7 +706,19 @@ module.exports = {
     " E",
     " EE",
     " F",
-    " FF"
+    " FF",
+    " G",
+    " GG",
+    " H",
+    " HA",
+    " HB",
+    " HC",
+    " HD",
+    " HE",
+    " HF",
+    " HG",
+    " HH",
+    " I"
 	]
 };
 
