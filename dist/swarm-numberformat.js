@@ -787,6 +787,8 @@ module.exports = {
         " Quadragintillion",
         " Quadragintillion",
         " Quadragintillion",
+        " Quadragintillion",
+        " Quadragintillion",
         " Quadragintillion"
     ]
 };
